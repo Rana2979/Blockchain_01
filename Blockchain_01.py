@@ -60,7 +60,7 @@ class Blockchain:
             block_index+=1
         return True
     
-
+## To check the encryption print the following line-
 #print(hashlib.sha256(str(new_proof**2-privious_proof**2).encode()).hexdigest())
 
 
